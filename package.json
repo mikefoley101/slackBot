@@ -1,7 +1,7 @@
 {
-  "name": "learn-travis-YOURNAME",
+  "name": "learn-travis-MichaelF",
   "description": "Simple Travis-CI check for JSHint (Code Linting)",
-  "author": "your name here :-)",
+  "author": "Michael F",
   "version": "0.0.1",
   "devDependencies": {
     "jshint": "^2.10.2"
